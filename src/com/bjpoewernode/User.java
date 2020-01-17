@@ -14,5 +14,9 @@ public class User {
 
     private String address;
 
+
     private String bran2;
+
+    private String bran1;
+
 }
